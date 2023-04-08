@@ -1,13 +1,13 @@
 #!/bin/bash
 
 ##   Zphisher 	: 	Automated Phishing Tool
-##   Author 	: 	TAHMID RAYAT 
+##   Author 	: 	BEEREDDY NITHISH REDDY 
 ##   Version 	: 	2.3.5
 ##   Github 	: 	https://github.com/newcodesin/zphisher
 
 
 ##                   GNU GENERAL PUBLIC LICENSE
-##                    Version 3, 29 June 2007
+##                    Version 3, 29 June 2022
 ##
 ##    Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
 ##    Everyone is permitted to copy and distribute verbatim copies
@@ -76,7 +76,7 @@
 ##    The precise terms and conditions for copying, distribution and
 ##    modification follow.
 ##
-##      Copyright (C) 2022  HTR-TECH (https://github.com/newcodesin)
+##      Copyright (C) 2022  NEWCODESIN (https://github.com/newcodesin)
 ##
 
 ##   THANKS TO :
