@@ -214,6 +214,7 @@ banner() {
 		${ORANGE}      |_|                ${RED}Version : ${__version__}
 
 		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by newcodesin ${GREEN}(BEEREDDY NITHISH REDDY)${GREEN}
+		for more codes DM 7569375463
 	EOF
 	
 }
