@@ -213,8 +213,9 @@ banner() {
 		${ORANGE}      | |                                
 		${ORANGE}      |_|                ${RED}Version : ${__version__}
 
-		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by newcodesin (BEEREDDY NITHISH REDDY)${WHITE}
+		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by newcodesin ${WHITE}#A first-level heading*BEEREDDY NITHISH REDDY*${GREEN}
 	EOF
+	
 }
 
 ## Small Banner
