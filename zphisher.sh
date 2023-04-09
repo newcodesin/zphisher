@@ -221,7 +221,7 @@ check_status() {
     echo " "
     echo "NOTE: Kindly move to the PIP version Of TBomb for more stability."
     echo " "
-}        ${RED}Version : ${__version__}
+}   
 
 		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by newcodesin ${GREEN}( NITHISH)${GREEN}
 		
