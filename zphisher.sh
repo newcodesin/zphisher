@@ -223,11 +223,6 @@ check_status() {
     echo " "
 }   
 
-		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by newcodesin ${GREEN}( NITHISH)${GREEN}
-		
-	EOF
-	
-}
 
 ## Small Banner
 banner_small() {
